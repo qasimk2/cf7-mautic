@@ -1,7 +1,7 @@
 package com.khawaja.sboot.courseapidata.course;
 
-import com.khawaja.sboot.courseapidata.topic.Topic;
 import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
